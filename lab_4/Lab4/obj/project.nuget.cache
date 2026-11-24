@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "K3h0RN/Vq0Q=",
+  "success": true,
+  "projectFilePath": "/Users/denisstyka/Documents/ЛАБЫ 3 СЕМ/paradigm_labs/lab_4/Lab4/Lab4.fsproj",
+  "expectedPackageFiles": [
+    "/Users/denisstyka/.nuget/packages/fsharp.core/11.0.101/fsharp.core.11.0.101.nupkg.sha512"
+  ],
+  "logs": []
+}
